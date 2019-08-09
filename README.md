@@ -6,7 +6,7 @@ Cada versão corresponde a como seu código deveria estar ao final de cada tópi
 ## Tópicos
 [ 1 ] [Seu primeiro projeto Django!](https://github.com/LaylaCsAvila/DjangoGirlsTutorial/releases/tag/V1)<br/>
 [ 2 ] [Modelos do Django](https://github.com/LaylaCsAvila/DjangoGirlsTutorial/releases/tag/V2)<br/>
-[ 3 ] Django Admin (Em breve)<br/>
+[ 3 ] [Django Admin](https://github.com/LaylaCsAvila/DjangoGirlsTutorial/releases/tag/V3)<br/>
 [ 4 ] Deploy! (Em breve)<br/>
 [ 5 ] URLs (Em breve)<br/>
 [ 6 ] Django views -- hora de criar! (Em breve)<br/>
