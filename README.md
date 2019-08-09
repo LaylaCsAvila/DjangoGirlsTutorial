@@ -10,7 +10,7 @@ Disponível em http://laylaavila.pythonanywhere.com/
 [ 2 ] [Modelos do Django](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V2)<br/>
 [ 3 ] [Django Admin](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V3)<br/>
 [ 4 ] [Deploy!](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V4) (Não houve mudança de código)<br/>
-[ 5 ] URLs (Em breve)<br/>
+[ 5 ] [URLs](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V5)<br/>
 [ 6 ] Django views -- hora de criar! (Em breve)<br/>
 [ 7 ] Introdução ao HTML (Em breve)<br/>
 [ 8 ] QuerySets e ORM do Django (Em breve)<br/>
