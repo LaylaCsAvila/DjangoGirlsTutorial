@@ -4,20 +4,20 @@ Repositório criado com base no [tutorial oficial do Django Girls](https://tutor
 Cada versão corresponde a como seu código deveria estar ao final de cada tópico. O arquivo .gitignore foi criado antes do previsto no tutorial, para facilitar o versionamento.
 
 ## Tópicos
-[ 1 ] Seu primeiro projeto Django! (Em breve)
-[ 2 ] Modelos do Django (Em breve)
-[ 3 ] Django Admin (Em breve)
-[ 4 ] Deploy! (Em breve)
-[ 5 ] URLs (Em breve)
-[ 6 ] Django views -- hora de criar! (Em breve)
-[ 7 ] Introdução ao HTML (Em breve)
-[ 8 ] QuerySets e ORM do Django (Em breve)
-[ 9 ] Dados dinâmicos em templates (Em breve)
-[ 10 ] Templates do Django (Em breve)
-[ 11 ] CSS - deixe tudo mais bonito! (Em breve)
-[ 12 ] Estendendo os templates (Em breve)
-[ 13 ] Amplie sua aplicação (Em breve)
-[ 14 ] Formulários do Django (Em breve)
+[ 1 ] Seu primeiro projeto Django! (Em breve)<br/>
+[ 2 ] Modelos do Django (Em breve)<br/>
+[ 3 ] Django Admin (Em breve)<br/>
+[ 4 ] Deploy! (Em breve)<br/>
+[ 5 ] URLs (Em breve)<br/>
+[ 6 ] Django views -- hora de criar! (Em breve)<br/>
+[ 7 ] Introdução ao HTML (Em breve)<br/>
+[ 8 ] QuerySets e ORM do Django (Em breve)<br/>
+[ 9 ] Dados dinâmicos em templates (Em breve)<br/>
+[ 10 ] Templates do Django (Em breve)<br/>
+[ 11 ] CSS - deixe tudo mais bonito! (Em breve)<br/>
+[ 12 ] Estendendo os templates (Em breve)<br/>
+[ 13 ] Amplie sua aplicação (Em breve)<br/>
+[ 14 ] Formulários do Django (Em breve)<br/>
 
 ## Contribuindo
 Para ajudar, apenas escolha o tópico seguinte e siga o tutorial passo a passo e abra um PR com seu código.
