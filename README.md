@@ -15,7 +15,7 @@ Disponível em http://laylaavila.pythonanywhere.com/
 [ 7 ] [Introdução ao HTML](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V7)<br/>
 [ 8 ] [QuerySets e ORM do Django](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V8) (Não houve mudança de código)<br/>
 [ 9 ] [Dados dinâmicos em templates](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V9)<br/>
-[ 10 ] Templates do Django (Em breve)<br/>
+[ 10 ] [Templates do Django](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V10)<br/>
 [ 11 ] CSS - deixe tudo mais bonito! (Em breve)<br/>
 [ 12 ] Estendendo os templates (Em breve)<br/>
 [ 13 ] Amplie sua aplicação (Em breve)<br/>
