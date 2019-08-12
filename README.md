@@ -12,7 +12,7 @@ Disponível em http://laylaavila.pythonanywhere.com/
 [ 4 ] [Deploy!](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V4) (Não houve mudança de código)<br/>
 [ 5 ] [URLs](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V5)<br/>
 [ 6 ] [Django views -- hora de criar!](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V6)<br/>
-[ 7 ] Introdução ao HTML (Em breve)<br/>
+[ 7 ] [Introdução ao HTML](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V7)<br/>
 [ 8 ] QuerySets e ORM do Django (Em breve)<br/>
 [ 9 ] Dados dinâmicos em templates (Em breve)<br/>
 [ 10 ] Templates do Django (Em breve)<br/>
