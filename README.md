@@ -20,6 +20,3 @@ Disponível em http://laylaavila.pythonanywhere.com/
 [ 12 ] [Estendendo os templates](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V12)<br/>
 [ 13 ] [Amplie sua aplicação](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V13)<br/>
 [ 14 ] [Formulários do Django](https://github.com/LaylaCsAvila/my-first-blog/releases/tag/V14)<br/>
-
-## Contribuindo
-Para ajudar, apenas escolha o tópico seguinte e siga o tutorial passo a passo e abra um PR com seu código.
